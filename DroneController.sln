@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneController", "DroneController\DroneController.csproj", "{3F372283-4FE2-4B5B-B37D-6796E2C9DB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F372283-4FE2-4B5B-B37D-6796E2C9DB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F372283-4FE2-4B5B-B37D-6796E2C9DB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F372283-4FE2-4B5B-B37D-6796E2C9DB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F372283-4FE2-4B5B-B37D-6796E2C9DB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D38018-6CAF-4159-988A-A7574FF3E1EF}
+	EndGlobalSection
+EndGlobal
