@@ -136,14 +136,11 @@
   <data name="HeadingIndicator_Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HeadingIndicator_Background.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="HeadingIndicator_Aircraft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HeadingIndicator_Aircraft.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="TurnCoordinatorMarks" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TurnCoordinatorMarks.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="SmallNeedleAltimeter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SmallNeedleAltimeter.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="HeadingIndicator_Aircraft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HeadingIndicator_Aircraft.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TurnCoordinatorAircraft" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TurnCoordinatorAircraft.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,19 +160,25 @@
   <data name="VerticalSpeedIndicator_Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VerticalSpeedIndicator_Background.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="tricopter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tricopter.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="AirSpeedNeedle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\AirSpeedNeedle.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Indicator_Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Indicator_Background.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Horizon_GroundSky" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Horizon_GroundSky.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="LongNeedleAltimeter" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LongNeedleAltimeter.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="tricopter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tricopter.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Horizon_GroundSky" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Horizon_GroundSky.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SmallNeedleAltimeter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SmallNeedleAltimeter.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\marker.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
