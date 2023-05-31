@@ -44,11 +44,6 @@ namespace DroneController
             }
             set
             {
-                if (value > maximumValue)
-                    currentValue = maximumValue;
-                else if (value < minimumValue)
-                    currentValue = minimumValue;
-                else
                     currentValue = value;
             }
         }

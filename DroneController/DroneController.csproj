@@ -116,6 +116,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PFDControl.resx">
+      <DependentUpon>PFDControl.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -199,6 +202,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\drone.bmp" />
+    <None Include="Resources\marker.bmp" />
     <None Include="Resources\tricopter.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
